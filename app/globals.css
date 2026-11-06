@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coal: #0e0a07;
+  --color-coal-2: #17110c;
+  --color-coal-3: #221912;
+  --color-ember: #e8611a;
+  --color-ember-2: #ff8a3d;
+  --color-flame: #ffb347;
+  --color-gold: #d4a24c;
+  --color-cream: #f6ecdc;
+  --color-smoke: #b9a993;
+  --font-display: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--color-coal);
+  color: var(--color-cream);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+.text-fire {
+  background: linear-gradient(100deg, #ffb347 0%, #ff8a3d 40%, #e8611a 70%, #d4a24c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.grain::after {
+  content: "";
+  position: absolute; inset: 0; pointer-events: none; opacity: .06;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.ember-glow { box-shadow: 0 0 0 1px rgba(232,97,26,.25), 0 20px 60px -20px rgba(232,97,26,.45); }
+
+@keyframes flicker { 0%,100% { opacity: 1; transform: scale(1);} 50% { opacity: .85; transform: scale(1.04);} }
+.flicker { animation: flicker 2.4s ease-in-out infinite; transform-origin: bottom center; }
+
+@keyframes marquee { from { transform: translateX(0);} to { transform: translateX(-50%);} }
+.marquee { animation: marquee 30s linear infinite; }
+
+@keyframes pulse-ring { 0% { transform: scale(.9); opacity: .7;} 100% { transform: scale(1.6); opacity: 0;} }
+.pulse-ring::before {
+  content: ""; position: absolute; inset: 0; border-radius: 9999px; background: #25d366;
+  animation: pulse-ring 1.8s ease-out infinite; z-index: -1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flicker, .marquee, .pulse-ring::before { animation: none; }
+  html { scroll-behavior: auto; }
+}
