@@ -1,0 +1,23 @@
+PÁGINA DE VENTAS - KIT CIERRAYA
+================================
+
+1) CONFIGURA TU NÚMERO (obligatorio)
+   Abre index.html con el Bloc de notas o VS Code. Arriba, busca "CONFIGURA AQUÍ":
+     whatsapp: "51999999999"   -> cámbialo por tu número con 51 adelante (ej. 51987654321)
+     pixelId: ""               -> tu ID de Meta Pixel (opcional, para medir tus anuncios)
+     vendidos: 0               -> actualízalo cuando vendas (cupos de lanzamiento)
+   Guarda el archivo.
+
+2) PRUÉBALA
+   Haz doble clic en index.html y se abre en tu navegador.
+   Toca un botón verde: debe abrir WhatsApp con tu número y el mensaje listo.
+
+3) PUBLÍCALA GRATIS (para ponerla en tus anuncios)
+   Opción fácil: entra a https://app.netlify.com/drop y arrastra esta carpeta completa.
+   En segundos te da un link (ej. cierraya.netlify.app). Ese link va en tus anuncios.
+   También sirve Vercel o GitHub Pages.
+
+4) IMPORTANTE
+   - Mantén juntas index.html y la carpeta img.
+   - Cuando tengas testimonios reales, pídeme y los agregamos a la página.
+   - Cumple la garantía y el precio de lanzamiento: la confianza es lo que más vende.
