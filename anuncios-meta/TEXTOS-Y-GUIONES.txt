@@ -111,3 +111,24 @@ QUÉ MEDIR (en el Administrador de anuncios)
 - De cada 10 conversaciones, ¿cuántas compran? Anótalo en tu plantilla de seguimiento.
 - Si tienes conversaciones pero no ventas: el problema está en el chat (usa el método).
 - Si no tienes conversaciones: el problema está en el anuncio (cambia imagen o gancho).
+
+
+VIDEOS ANIMADOS SIN SALIR EN CÁMARA (listos para subir, 9:16, 20 s)
+-------------------------------------------------------------------
+- CierraYa-video-1-Visto.mp4: chat que pierde la venta vs. chat que la cierra.
+  Usa el texto del ANUNCIO 1.
+- CierraYa-video-2-Tres-errores.mp4: los 3 errores y cómo corregirlos.
+  Usa el texto del ANUNCIO 2.
+- CierraYa-video-3-Metodo-CIERRA.mp4: los 6 pasos del método, letra por letra.
+  Usa el texto del ANUNCIO 3.
+
+Los videos no tienen sonido. Agrégale música al subirlos:
+- En Meta Ads: al crear el anuncio, en "Medios" elige "Agregar música" (biblioteca gratuita).
+- O en CapCut: agrega una canción de tendencia y, si quieres voz, usa "Texto a voz"
+  con una voz en español. Ejemplo de locución para el video 1:
+  "¿Te preguntan el precio y desaparecen? No es tu precio, es cómo respondes.
+   Mira la diferencia... Aprende el método completo en la Máquina de Cierres por WhatsApp.
+   Solo S/14.90. Escríbenos."
+
+Consejo: sube los 3 videos y las 3 imágenes en el mismo conjunto de anuncios.
+Meta mostrará más los que mejor funcionen.
