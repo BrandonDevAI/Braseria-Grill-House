@@ -1,0 +1,113 @@
+ANUNCIOS META ADS - MÁQUINA DE CIERRES POR WHATSAPP (CierraYa)
+================================================================
+
+CONFIGURACIÓN DE LA CAMPAÑA
+---------------------------
+- Objetivo: Interacción  ->  Ubicación de la conversión: Apps de mensajes  ->  WhatsApp
+- Presupuesto: S/15 a S/20 por día, en 1 campaña y 1 conjunto de anuncios
+- Ubicación: Perú  ->  Lima (o todo Perú si quieres más volumen)
+- Edad: 22 a 50
+- Público: Advantage+ (amplio). Si te pide intereses: emprendimiento, pequeñas empresas,
+  ventas, WhatsApp Business, Instagram para negocios, tiendas en línea.
+- Ubicaciones: Advantage+ (automáticas). Sube la imagen "feed 4x5" y la "historia 9x16"
+  del mismo anuncio para que Meta use la correcta en cada lugar.
+- Pon los 3 anuncios en el mismo conjunto. Deja correr 3 a 4 días sin tocar nada.
+- Después: apaga el que tenga el costo por conversación más alto y deja los mejores.
+
+
+TEXTOS DE CADA ANUNCIO
+----------------------
+
+ANUNCIO 1 - "VISTO"  (imagen: CierraYa-anuncio-1-Visto)
+Texto principal:
+  ¿Te preguntan "¿cuánto cuesta?" y después te dejan en visto? 👀
+  El problema casi nunca es tu precio. Es cómo respondes.
+  Con la Máquina de Cierres por WhatsApp aprendes un método de 6 pasos, con ejemplos
+  reales de chats, para llevar a cada cliente desde el "hola" hasta el "¡ya te yapeé!".
+  ✅ Ejemplos visuales: así se pierde vs. así se cierra
+  ✅ Qué responder cuando te dicen "está caro" o "lo voy a pensar"
+  ✅ + 5 bonos (50 mensajes listos, prompts de IA y más)
+  Precio de lanzamiento: S/14.90. Escríbenos y te lo enviamos al toque 👇
+Título: Deja de perder ventas en el chat
+Botón: Enviar mensaje de WhatsApp
+
+ANUNCIO 2 - "ANTES VS DESPUÉS"  (imagen: CierraYa-anuncio-2-Antes-vs-Despues)
+Texto principal:
+  Mismo cliente. Misma pregunta. Otro resultado. 💚
+  ❌ "¿Cuánto cuesta?" -> "S/89." -> visto.
+  ✅ "¿Cuánto cuesta?" -> beneficio + precio + una pregunta -> "¡ya te yapeé!"
+  Esa diferencia se aprende. En la Máquina de Cierres te enseñamos paso a paso qué
+  responder en cada momento de la conversación, con ejemplos visuales.
+  Solo S/14.90 + 5 bonos. Garantía de 7 días.
+Título: Aprende a cerrar ventas por WhatsApp
+Botón: Enviar mensaje de WhatsApp
+
+ANUNCIO 3 - "OFERTA"  (imagen: CierraYa-anuncio-3-Producto-Oferta)
+Texto principal:
+  Pasa del "visto" al "¡ya te yapeé!" 🚀
+  La Máquina de Cierres por WhatsApp es el método de 6 pasos (C-I-E-R-R-A) para
+  emprendedores y tiendas que venden por chat:
+  Conecta · Indaga · Enseña el valor · Resuelve objeciones · Recupera · Asegura el cierre
+  📲 PDF visual, fácil de leer en el celular
+  🎁 + 5 bonos: 50 mensajes, 7 mensajes de rescate, 10 prompts de IA, respuestas
+     rápidas y plantilla de seguimiento
+  🔒 Garantía de 7 días
+  Precio de lanzamiento S/14.90 (luego S/29.90).
+Título: Máquina de Cierres por WhatsApp - S/14.90
+Botón: Enviar mensaje de WhatsApp
+
+
+GUIONES DE VIDEO (graba con tu celular, vertical, 15 a 30 segundos)
+--------------------------------------------------------------------
+Los videos suelen funcionar mejor que las imágenes. Graba con buena luz, habla
+natural y pon subtítulos (CapCut los genera automáticos).
+
+VIDEO 1 - "EL VISTO" (grabación de pantalla + tu voz)
+  0-3 s   [Pantalla de un chat: "¿Cuánto cuesta?" -> "S/89" -> visto]
+          Voz: "Si respondes así, estás perdiendo ventas."
+  3-12 s  [Borras y escribes la respuesta con el método]
+          Voz: "Prueba así: un beneficio, el precio con lo que incluye, y una pregunta
+          que avance: ¿a qué distrito te lo enviamos?"
+  12-20 s [Muestras el PDF pasando páginas]
+          Voz: "Esto y 6 pasos más están en la Máquina de Cierres por WhatsApp.
+          S/14.90. Escríbeme y te lo envío ahora."
+
+VIDEO 2 - "3 ERRORES" (tú hablando a cámara)
+  0-3 s   "3 errores que te hacen perder ventas por WhatsApp."
+  3-8 s   "Uno: responder solo con el precio."
+  8-13 s  "Dos: bajar el precio cuando te dicen 'está caro'."
+  13-18 s "Tres: no hacer seguimiento al que te dejó en visto."
+  18-28 s "En la Máquina de Cierres te enseño qué hacer en cada caso, con ejemplos
+          reales de chats. S/14.90. Toca el botón y escríbeme."
+
+VIDEO 3 - "ESTÁ CARO" (tú a cámara + texto en pantalla)
+  0-3 s   "Cuando un cliente te dice 'está caro', NO le bajes el precio."
+  3-15 s  "Primero dile: 'Te entiendo, ¿con qué lo estás comparando?'. Así descubres
+          la duda real y la respondes con valor."
+  15-25 s "Ese es el paso 4 del método CIERRA. Los 6 pasos están en la Máquina de
+          Cierres por WhatsApp. Escríbeme y te lo paso."
+
+
+MENSAJE DE BIENVENIDA (WhatsApp Business > Herramientas > Mensaje de bienvenida)
+-------------------------------------------------------------------------------
+  ¡Hola! 😊 Gracias por escribir a CierraYa.
+  Aquí ves todo lo que incluye la Máquina de Cierres 👉 [link de tu página web]
+  Cuéntame, ¿vendes por WhatsApp, Instagram o los dos?
+
+(Y desde ahí aplica tu propio método: Conecta, Indaga, Enseña el valor...)
+
+
+REGLAS PARA QUE META NO TE RECHACE EL ANUNCIO
+--------------------------------------------
+- No prometas ganancias ("gana S/5,000 al mes"). Habla de vender mejor, no de cifras.
+- No uses el logo de WhatsApp en tus imágenes.
+- El precio de lanzamiento y la garantía deben ser reales y cumplirse.
+- No escribas frases que señalen a la persona ("¿Estás quebrado?"). Habla del problema.
+
+
+QUÉ MEDIR (en el Administrador de anuncios)
+-------------------------------------------
+- Costo por conversación iniciada: idealmente menos de S/3 a S/4.
+- De cada 10 conversaciones, ¿cuántas compran? Anótalo en tu plantilla de seguimiento.
+- Si tienes conversaciones pero no ventas: el problema está en el chat (usa el método).
+- Si no tienes conversaciones: el problema está en el anuncio (cambia imagen o gancho).
